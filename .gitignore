@@ -110,3 +110,5 @@ Build/Android/res/*/*
 
 # End of https://www.gitignore.io/api/c++,unrealengine
 
+#Remove Starter Content
+Content/StarterContent/*
